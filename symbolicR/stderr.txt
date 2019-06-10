@@ -1,0 +1,45 @@
+
+##############################################################
+#	file3.gen 24/03/2019 10:34:44    errors
+##############################################################
+/usr/local/robotran/bin/robotran: /usr/lib/libxml2.so.2: no version information available (required by /usr/local/robotran/bin/robotran)
+
+##############################################################
+#	file7.gen 24/03/2019 10:34:44    errors
+##############################################################
+/usr/local/robotran/bin/robotran: /usr/lib/libxml2.so.2: no version information available (required by /usr/local/robotran/bin/robotran)
+
+##############################################################
+#	file4.gen 24/03/2019 10:34:44    errors
+##############################################################
+/usr/local/robotran/bin/robotran: /usr/lib/libxml2.so.2: no version information available (required by /usr/local/robotran/bin/robotran)
+
+##############################################################
+#	file1b.gen 24/03/2019 10:34:44    errors
+##############################################################
+/usr/local/robotran/bin/robotran: /usr/lib/libxml2.so.2: no version information available (required by /usr/local/robotran/bin/robotran)
+
+##############################################################
+#	file0.gen 24/03/2019 10:34:44    errors
+##############################################################
+/usr/local/robotran/bin/robotran: /usr/lib/libxml2.so.2: no version information available (required by /usr/local/robotran/bin/robotran)
+
+##############################################################
+#	file6.gen 24/03/2019 10:34:44    errors
+##############################################################
+/usr/local/robotran/bin/robotran: /usr/lib/libxml2.so.2: no version information available (required by /usr/local/robotran/bin/robotran)
+
+##############################################################
+#	file5.gen 24/03/2019 10:34:44    errors
+##############################################################
+/usr/local/robotran/bin/robotran: /usr/lib/libxml2.so.2: no version information available (required by /usr/local/robotran/bin/robotran)
+
+##############################################################
+#	file2.gen 24/03/2019 10:34:44    errors
+##############################################################
+/usr/local/robotran/bin/robotran: /usr/lib/libxml2.so.2: no version information available (required by /usr/local/robotran/bin/robotran)
+
+##############################################################
+#	file1.gen 24/03/2019 10:34:44    errors
+##############################################################
+/usr/local/robotran/bin/robotran: /usr/lib/libxml2.so.2: no version information available (required by /usr/local/robotran/bin/robotran)

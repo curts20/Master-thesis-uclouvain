@@ -1,0 +1,7 @@
+Robotran XML parser warning : R7parse_name : a <pointname> tag is empty 
+Robotran XML parser error : R7parse_point : invalid <point> node 
+Robotran XML parser warning : R7parse_name : a <pointname> tag is empty 
+Robotran XML parser error : R7parse_anchor : invalid <endpoint2> tag 
+Robotran XML parser warning : R7parse_name : a <pointname> tag is empty 
+Robotran XML parser error : R7parse_anchor : invalid <endpoint1> tag 
+Robotran XML parser error : R7parser : aborting execution 
